@@ -1,8 +1,0 @@
-python_version=="3.11"
-streamlit
-pandas
-numpy
-scikit-learn
-imbalanced-learn
-xgboost
-requests
